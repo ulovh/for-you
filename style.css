@@ -1,0 +1,41 @@
+body{
+    background-color: #bdecb6;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+    text-align: center ;
+}
+
+#puung{   
+    display:block;
+    margin:auto;
+    width: 50%;
+}
+
+#love{
+    
+    text-align: center;
+    color: #7E9F2E;
+
+}
+
+#c{
+
+    text-align: start;
+}
+
+#r{
+
+    color: #7E9F2E;
+    text-align: center;
+
+}
